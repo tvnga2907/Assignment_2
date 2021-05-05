@@ -1,7 +1,7 @@
 Assignment_2: 04/05/2021
 # ASSIGNMENT 2: IMAGE AUGMENTATION
 # Nhiệm vụ
-1. Tìm hiểu về image aUgmentation
+1. Tìm hiểu về image augmentation
 2. Các hàm để augment trong python (opencv, keras, pytorch, augmentor, albumentations, ...) chạy thử và show lại kết quả vào Readme
 3. Code 1 chương trình augment 1 tập data tùy chọn
 # Nộp
